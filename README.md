@@ -49,4 +49,6 @@ LLM evaluation frameworks and ML engineering.
 
 Open to AI consulting and developer-tooling collaborations.
 
-[Website](https://manikumarkv.dev) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Hugging Face](https://huggingface.co/manikumarkv) · [Instagram](https://instagram.com/mani.ai.dev) · [Email](mailto:YOUR-EMAIL)
+[Website](https://manikumarkv.dev) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Hugging Face](https://huggingface.co/manikumarkv) · [Instagram](https://instagram.com/mani.ai.dev) · [Email](mailto:manikumarkv@gmail.com)
+
+[![TrueIcon MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/manikumarkv/trueicon/badges/card.svg)](https://glama.ai/mcp/servers/manikumarkv/trueicon)
